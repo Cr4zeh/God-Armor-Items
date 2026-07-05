@@ -1,3 +1,3 @@
 # God-Armor-Items
-Suggestion and Issue tracker for my datapack
-.Link to my datapack: https://modrinth.com/datapack/god-armor-items
+Suggestion and Issue tracker for my datapack.
+ Link to my datapack: https://modrinth.com/datapack/god-armor-items
